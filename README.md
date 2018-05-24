@@ -1,2 +1,2 @@
-# C_practics
+# C_practice
 C ++
